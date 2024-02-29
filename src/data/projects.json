@@ -1,0 +1,21 @@
+[
+  {
+    "title": "E-Commerce App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the Routing and Redux control.",
+    "skills": ["React", "Redux"]
+  },
+  {
+    "title": "Music App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest Web Design with responsive.",
+    "skills": ["JS", "HTML", "CSS"]
+  },
+
+  {
+    "title": "TextUtility",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest JavaScript and Navigation.",
+    "skills": ["JS"]
+  }
+]
